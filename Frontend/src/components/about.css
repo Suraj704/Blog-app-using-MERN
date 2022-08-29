@@ -1,0 +1,53 @@
+.para{
+    text-align: center;
+    margin-top: 100px;
+    width: 100%;
+}
+
+.para p{
+    text-align: center;
+}
+
+.imgcss{
+    margin-top: 100px;
+
+}
+
+
+.img-fluid {
+    width: 400px;
+    border-radius: 5%;
+}
+
+.text-center{
+    margin-top: 25px;
+}
+
+.container_top{
+   margin-bottom: 50PX;
+
+}
+
+.main_row{
+    padding-top: 100px;
+}
+
+.card-img-top{
+    border-radius: 5%;
+}
+
+
+
+
+.rowcl {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.bg1{
+    background: rgb(165,162,224);
+    background: linear-gradient(90deg, rgba(165,162,224,1) 0%, rgba(0,212,255,1) 100%); 
+}

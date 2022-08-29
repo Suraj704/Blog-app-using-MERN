@@ -1,0 +1,71 @@
+.css-1olsnpn-MuiPaper-root-MuiCard-root {
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.87);
+    -webkit-transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 4px;
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+    overflow: hidden;
+    width: 100%;
+    
+}
+
+
+/* smartphones, iPhone, portrait 480x320 phones */
+@media (min-width:320px)  
+{ 
+    .css-1olsnpn-MuiPaper-root-MuiCard-root{
+        width: "100%";  
+    }
+    .card {
+        width: "100%";
+      }
+
+      .MuiPaper-root{
+        width: "100%";
+      }
+ }
+
+
+ /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
+@media (min-width:481px) 
+ {
+    .css-1olsnpn-MuiPaper-root-MuiCard-root{
+        width: "100%";  
+    }
+    .card {
+        width: "100%";
+      }
+      .MuiPaper-root{
+        width: "100%";
+      }
+ }
+
+
+ /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+@media (min-width:641px) 
+ { 
+
+ }
+
+
+
+ /* tablet, landscape iPad, lo-res laptops ands desktops */
+@media (min-width:961px)  
+{ 
+    }
+
+
+
+ /* big landscape tablets, laptops, and desktops */ 
+@media (min-width:1025px) 
+{ 
+
+}
+
+
+
+/* hi-res laptops and desktops */ 
+@media (min-width:1281px) {
+
+}
